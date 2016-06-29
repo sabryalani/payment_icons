@@ -103,3 +103,7 @@
   label: NetBanking
   group: bank_transfers
 
+-
+  name: KNET
+  label: KNET
+  group: other
